@@ -1,0 +1,179 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+
+}
+.A1
+{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    list-style:none;;
+   padding-top: 20px;
+   padding-left: 60px;
+}
+#B1
+{
+    width: 100%;
+    height: 10vh;
+    border: 1px solid black;
+    background-color: rgb(219, 209, 209);
+    /* cursor: pointer; */
+    display: flex;
+   
+}
+#B2
+{
+    font-size: 25px;
+    opacity: 0.6;
+  
+
+}
+#B3
+{
+    font-size:20px ;
+    cursor: pointer;
+  
+
+}
+#form
+{
+    /* border: 1px solid red; */
+    height: 400px;
+    padding-top: 20px;
+    text-align: left;
+    margin-left: 70px;
+}
+#B4
+{
+   font-size: 20PX;
+   margin-top: 25px;
+}
+#B6
+{
+    height:30px;
+    width: 30%;
+    /* border: 1px solid red; */
+    margin-top: 80px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#B7
+{
+    width: 30%;
+    background-color: #ffff;
+    cursor: pointer;
+}
+#B8
+{
+    width: 30%;
+    background-color: #ffff;
+    cursor: pointer;
+}
+#BB8
+{
+    width: 30%;
+    background-color: #ffff;
+    cursor: pointer;
+}
+#B9
+{
+   height: 25px;
+   width:200px;
+   align-items: center;
+   text-align: center;
+   padding-left: 10px;
+   border: none;
+}
+#B90
+{
+   height: 25px;
+   width:200px;
+   align-items: center;
+   text-align: center;
+   padding-left: 40px;
+   border: none;
+}
+#B99
+{
+   height: 25px;
+   width:200px;
+   align-items: center;
+   text-align: center;
+   padding-left: 10px;
+   margin-left: 30px;
+   border: none;
+}
+#icon
+{
+   align-items: center;
+   margin-top: 20px;
+   margin-left: 650px;
+   display: flex;
+   cursor: pointer;
+    
+}
+#icon2
+{
+    font-family:fangsong ;
+    opacity: 0.4;
+}
+
+
+/* .................................................task................................................ */
+.task-page {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .page-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .add-button {
+    background-color: #008000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .task {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .task-id {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .task-title {
+    margin-bottom: 5px;
+  }
+  
+  .task-completed {
+    margin-bottom: 10px;
+  }
+  
+  .delete-button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
